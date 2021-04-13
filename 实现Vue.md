@@ -20,8 +20,7 @@ function hookdata(data,key,value){
         Object.defineProperty(data,key,{
            enumerable: true,
            configurable: true,
-            get(){
-              //console.log(v)
+            get(){ 
               return v;
             },
             set(value){
