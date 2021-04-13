@@ -25,7 +25,7 @@ function hookdata(data,key,value){
             },
             set(value){
               v = value;
-              watch.emit(key,value);
+              watch.emit(key,value); //触发更新事件
             }
           });
       })();
