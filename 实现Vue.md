@@ -83,4 +83,4 @@ function hookProperties(data,key,value){
 ```
 
 感觉博主prebra的作图和讲解，所以才能理解vue是如何实现 MVVM 的。
-我自己实现的代码，应该是会有很多问题，欢迎指正。
+我自己实现的代码，应该会有一些问题，欢迎指正。
