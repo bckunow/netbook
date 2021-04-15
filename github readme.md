@@ -12,8 +12,16 @@ grammar_cjkRuby: true
 
 其次，仅简单的实现了加减乘除。附属在number类上了。
 
- 
-
 最后，性能堪忧【500万次乘法花费4400ms】啊，有没有大神有优化方案，欢迎打扰 email：dforel#QQ.com
 
   [1]: https://github.com/fzred/calculatorjs
+  
+  
+
+
+----------
+使用方法
+浏览器中
+```javascript
+
+```
